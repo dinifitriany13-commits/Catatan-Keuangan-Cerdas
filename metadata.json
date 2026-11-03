@@ -1,0 +1,6 @@
+{
+  "name": "Teddy Finance",
+  "description": "Aplikasi Pencatatan Keuangan Pribadi (Cash & Cashless) bertema Teddy Bear Elegant lengkap dengan analisis, rekap, diagram, dan target tabungan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
